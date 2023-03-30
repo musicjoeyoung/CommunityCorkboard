@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Draggable from "react-draggable";
-import "./App.css";
+import "./App.scss";
 import thumbtack from "./assets/thumbtack.png";
 
 function App() {
